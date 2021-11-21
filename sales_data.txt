@@ -1,0 +1,6 @@
+Sales_Person	#_of_sales	Total_Sales
+Bill	8	20000
+Mary	10	18000
+Jane	12	30000
+Dave	15	15000
+John	4	21000
